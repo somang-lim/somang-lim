@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&fontColor=f7f5f5&fontAlignY=38&height=300&section=header&text=Welcome&desc=Imhope%20Github%20Profile&descAlign=59&descAlignY=53&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD159&fontColor=f7f5f5&fontAlignY=40&height=350&section=header&text=Welcome&desc=Imhope%20Github%20Profile&descAlign=59&descAlignY=52&fontSize=80)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsomang-lim&count_bg=%23FFD159&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/somang-lim)
 
