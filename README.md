@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somang-lim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somang-lim&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
@@ -57,5 +57,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/imhope_12/)
 
 </p>
+
+<br/>
+
+![Somang-lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=somang-lim&show_icons=true&theme=vue)
 
 </div>
