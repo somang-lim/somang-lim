@@ -46,20 +46,3 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 </p>
-
-<br/>
-
-### 🌳 Me 🌳
-
-<p>
-
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@somang-lim)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/imhope_12/)
-
-</p>
-
-<br/>
-
-![Somang-lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=somang-lim&show_icons=true&theme=vue)
-
-</div>
